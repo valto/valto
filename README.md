@@ -7,6 +7,7 @@ I design and build systems across personal AI, conversational interfaces, custom
 ## What I focus on
 
 - Personal AI and AI twin systems
+- Owner-controlled personal information infrastructure
 - Conversational products, services, and venues
 - Customer experience AI systems
 - UX-driven product and system architecture
@@ -45,9 +46,25 @@ Common tools and approaches include:
 
 I also run my own OpenClaw setup at home and have built my own related web and mobile apps around that environment.
 
+## Open framework work
+
+My current open framework work is organized through **peecos** and **PIOS 2.0**.
+
+PIOS is a Personal Intelligence Operating System framework for owner-controlled personal information infrastructure: preserved sources, canonical events, structured knowledge, retrieval surfaces, governance, and portable setup paths for agents and applications.
+
+- peecos organization: [github.com/peecos](https://github.com/peecos)
+- PIOS 2.0 master documentation: [peecos.org/pios/master](https://www.peecos.org/pios/master)
+- PIOS framework repository: [github.com/peecos/pios](https://github.com/peecos/pios)
+- AWS template path: [github.com/peecos/pios-core-aws-template](https://github.com/peecos/pios-core-aws-template)
+- Self-hosted VM path: [github.com/peecos/pios-core-self-hosted](https://github.com/peecos/pios-core-self-hosted)
+
+The public peecos repositories are the open framework and setup-template layer. My own private implementation and migration work remain separate.
+
 ## Public portfolio and links
 
 - Builder portfolio: [valto.github.io/portfolio](https://valto.github.io/portfolio/)
+- Open framework work: [peecos.org](https://www.peecos.org)
+- peecos GitHub organization: [github.com/peecos](https://github.com/peecos)
 - Speaking and AI coaching: [valtoai.com](https://valtoai.com)
 - LinkedIn: [linkedin.com/in/valto](https://www.linkedin.com/in/valto)
 
@@ -64,6 +81,9 @@ This profile is best understood as one part of a broader builder portfolio.
 ### Personal AI and AI Twin Systems
 Systems where identity, knowledge, memory, and interaction come together in a more personal AI layer.
 
+### PIOS and Personal Core Infrastructure
+Owner-controlled information architecture for preserved sources, event logs, knowledge projections, agent retrieval, governance, and portable Core setup paths.
+
 ### Talking Products and Venues
 Conversational layers that help products, services, and places explain themselves, answer questions, and learn from customer interaction.
 
@@ -79,6 +99,7 @@ I'm especially interested in building AI-native products that:
 - solve real problems for real customers
 - make technology feel more natural, not more technical
 - connect user experience, business logic, and system design clearly
+- give people durable ownership and control over their own information context
 - create stronger customer understanding and better market-facing value
 
 ## Contact
