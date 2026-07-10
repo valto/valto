@@ -48,15 +48,20 @@ I also run my own OpenClaw setup at home and have built my own related web and m
 
 ## Open framework work
 
-My current open framework work is organized through **peecos** and **PIOS 2.0**.
+My current open framework work is organized through **peecos / PIOS 2.0** for personal-scale infrastructure and **Entity Core / EIOS** for entity-scale organizational memory.
 
 PIOS is a Personal Intelligence Operating System framework for owner-controlled personal information infrastructure: preserved sources, canonical events, structured knowledge, retrieval surfaces, governance, and portable setup paths for agents and applications.
+
+Entity Core is the organization-scale sibling initiative. EIOS, the Entity Information Operating System, defines how organizations can preserve originals, record events, maintain governed memory, and make operating context usable by people and AI agents.
 
 - peecos organization: [github.com/peecos](https://github.com/peecos)
 - PIOS 2.0 master documentation: [peecos.org/pios/master](https://www.peecos.org/pios/master)
 - PIOS framework repository: [github.com/peecos/pios](https://github.com/peecos/pios)
 - AWS template path: [github.com/peecos/pios-core-aws-template](https://github.com/peecos/pios-core-aws-template)
 - Self-hosted VM path: [github.com/peecos/pios-core-self-hosted](https://github.com/peecos/pios-core-self-hosted)
+- Entity Core website: [entitycore.org](https://entitycore.org)
+- Entity Core GitHub organization: [github.com/entity-core](https://github.com/entity-core)
+- EIOS 1.0 specification: [github.com/entity-core/eios](https://github.com/entity-core/eios)
 
 The public peecos repositories are the open framework and setup-template layer. My own private implementation and migration work remain separate.
 
@@ -65,6 +70,8 @@ The public peecos repositories are the open framework and setup-template layer. 
 - Builder portfolio: [valto.github.io/portfolio](https://valto.github.io/portfolio/)
 - Open framework work: [peecos.org](https://www.peecos.org)
 - peecos GitHub organization: [github.com/peecos](https://github.com/peecos)
+- Entity Core: [entitycore.org](https://entitycore.org)
+- Entity Core GitHub organization: [github.com/entity-core](https://github.com/entity-core)
 - Speaking and AI coaching: [valtoai.com](https://valtoai.com)
 - LinkedIn: [linkedin.com/in/valto](https://www.linkedin.com/in/valto)
 
@@ -83,6 +90,9 @@ Systems where identity, knowledge, memory, and interaction come together in a mo
 
 ### PIOS and Personal Core Infrastructure
 Owner-controlled information architecture for preserved sources, event logs, knowledge projections, agent retrieval, governance, and portable Core setup paths.
+
+### Entity Core and EIOS
+Organization-controlled memory architecture for preserved originals, event truth, governed context, and agent-ready entity operations.
 
 ### Talking Products and Venues
 Conversational layers that help products, services, and places explain themselves, answer questions, and learn from customer interaction.
